@@ -1,4 +1,4 @@
-"""empty message
+"""Rename created and updated columns
 
 Revision ID: 8c6efc1104d9
 Revises: 45e9abc2a90f
